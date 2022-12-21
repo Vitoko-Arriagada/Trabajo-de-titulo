@@ -3,14 +3,14 @@
 DISEÑO E IMPLEMENTACIÓN DE UNA SOLUCIÓN IOT (INTERNET DE LAS COSAS) PARA MONITOREO Y ALARMA REMOTA DE FALLAS ELÉCTRICAS CON TECNOLOGÍA SIGFOX Y PLATAFORMA UBIDOTS
 
 - [PDF][pdf]
-- [Presentacion Completa][completa]
-- [Presentacion Corta][corta]
+- [Presentación Completa][completa]
+- [Presentación Corta][corta]
 
 ### Recursos
 
 - [Archivos del Backend SigFox][sigfox]
 - [Archivos capturados por terminal][debug]
-- [Bibliografia][biblio]
+- [Bibliografía][biblio]
 - [Firmwares][firm]
 - [Archivos de datos log en la MicroSD][sd]
 - [Datos descargados de plataforma Ubidots][ubi]
