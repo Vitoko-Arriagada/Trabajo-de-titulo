@@ -1,0 +1,33 @@
+[22:58:50]  [Estado Sistema] [OK] [Voltaje_AC: 222.1 V] [Voltaje_Bateria: 3.744626 V]
+[22:58:50]  [Estado Volt AC] [OK] [Voltaje_AC: 222.1 V] [Voltaje_Bateria: 3.744626 V]
+[22:58:50]  [Estado Bateria] [Medio] [Voltaje_AC: 222.1 V] [Voltaje_Bateria: 3.744626 V]
+[22:58:50]  [SigFox Send] [Payload HEX] 9A195E43F5A76F40000001 
+[22:58:53]  [SigFox] [Envio de metrica] [Voltaje_AC: 222.0 V] [Voltaje_Bateria: 3.747597 V]
+[23:04:32]  [Estado Sistema] [OK] [Voltaje_AC: 222.1 V] [Voltaje_Bateria: 3.748226 V]
+[23:04:32]  [Estado Volt AC] [OK] [Voltaje_AC: 222.1 V] [Voltaje_Bateria: 3.748226 V]
+[23:04:32]  [Estado Bateria] [Medio] [Voltaje_AC: 222.1 V] [Voltaje_Bateria: 3.748226 V]
+[23:04:32]  [SigFox Send] [Payload HEX] 9A195E43F1E26F40000001 
+[23:04:34]  [SigFox] [Envio de metrica] [Voltaje_AC: 221.9 V] [Voltaje_Bateria: 3.744649 V]
+[23:16:35]  [SigFox Send] [Payload HEX] 66E65E4328CD6F40000001 
+[23:16:37]  [SigFox] [Envio de metrica] [Voltaje_AC: 223.0 V] [Voltaje_Bateria: 3.747949 V]
+[23:28:37]  [SigFox Send] [Payload HEX] 9A19634334DF7040000001 
+[23:28:40]  [SigFox] [Envio de metrica] [Voltaje_AC: 227.1 V] [Voltaje_Bateria: 3.757196 V]
+[23:40:40]  [SigFox Send] [Payload HEX] 66665F43D0167240000001 
+[23:40:43]  [SigFox] [Envio de metrica] [Voltaje_AC: 223.3 V] [Voltaje_Bateria: 3.775057 V]
+[23:44:11]  [Estado Bateria] [OK] [Voltaje_AC: 223.3 V] [Voltaje_Bateria: 3.800604 V]
+[23:44:13]  [Estado Bateria] [Medio] [Voltaje_AC: 223.1 V] [Voltaje_Bateria: 3.797019 V]
+[23:44:20]  [Estado Bateria] [OK] [Voltaje_AC: 223.4 V] [Voltaje_Bateria: 3.800401 V]
+[23:44:21]  [Estado Bateria] [Medio] [Voltaje_AC: 223.1 V] [Voltaje_Bateria: 3.791264 V]
+[23:44:34]  [Estado Bateria] [OK] [Voltaje_AC: 223.4 V] [Voltaje_Bateria: 3.800886 V]
+[23:44:36]  [Estado Bateria] [Medio] [Voltaje_AC: 223.2 V] [Voltaje_Bateria: 3.795615 V]
+[23:52:43]  [SigFox Send] [Payload HEX] 9A995E43A5B67240000001 
+[23:52:46]  [SigFox] [Envio de metrica] [Voltaje_AC: 222.5 V] [Voltaje_Bateria: 3.779757 V]
+[23:54:51]  [Estado Bateria] [OK] [Voltaje_AC: 222.3 V] [Voltaje_Bateria: 3.801233 V]
+[23:54:53]  [Estado Bateria] [Medio] [Voltaje_AC: 222.0 V] [Voltaje_Bateria: 3.798638 V]
+[23:55:03]  [Estado Bateria] [OK] [Voltaje_AC: 221.9 V] [Voltaje_Bateria: 3.80481 V]
+[23:55:07]  [Estado Bateria] [Medio] [Voltaje_AC: 222.0 V] [Voltaje_Bateria: 3.799236 V]
+[23:55:09]  [Estado Bateria] [OK] [Voltaje_AC: 221.9 V] [Voltaje_Bateria: 3.801774 V]
+[23:55:11]  [Estado Bateria] [Medio] [Voltaje_AC: 222.2 V] [Voltaje_Bateria: 3.798224 V]
+[23:55:15]  [Estado Bateria] [OK] [Voltaje_AC: 222.5 V] [Voltaje_Bateria: 3.801806 V]
+[23:55:23]  [Estado Bateria] [Medio] [Voltaje_AC: 222.4 V] [Voltaje_Bateria: 3.799797 V]
+[23:55:25]  [Estado Bateria] [OK] [Voltaje_AC: 222.5 V] [Voltaje_Bateria: 3.801854 V]

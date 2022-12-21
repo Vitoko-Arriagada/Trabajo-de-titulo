@@ -1,0 +1,314 @@
+[00:14:32]  [SigFox Send] [Payload HEX] 333361432CF15440000002 
+[00:14:34]  [SigFox] [Envio de metrica] [Voltaje_AC: 225.5 V] [Voltaje_Bateria: 3.316652 V]
+[00:29:35]  [SigFox Send] [Payload HEX] 0080614396394C40000002 
+[00:29:37]  [SigFox] [Envio de metrica] [Voltaje_AC: 225.2 V] [Voltaje_Bateria: 3.176657 V]
+[01:29:42]  [Estado Sistema] [OK] [Voltaje_AC: 225.4 V] [Voltaje_Bateria: 0 V]
+[01:29:42]  [Estado Volt AC] [OK] [Voltaje_AC: 225.4 V] [Voltaje_Bateria: 0 V]
+[01:29:42]  [Estado Bateria] [Bajo] [Voltaje_AC: 225.4 V] [Voltaje_Bateria: 0 V]
+[01:44:41]  [SigFox Send] [Payload HEX] CD4C6143A0993540000002 
+[01:44:44]  [SigFox] [Envio de metrica] [Voltaje_AC: 225.1 V] [Voltaje_Bateria: 2.829931 V]
+[01:45:29]  [Estado Bateria] [OK] [Voltaje_AC: 225.8 V] [Voltaje_Bateria: 4.077149 V]
+[01:45:31]  [Estado Bateria] [Bajo] [Voltaje_AC: 225.7 V] [Voltaje_Bateria: 2.825543 V]
+[01:45:40]  [Estado Bateria] [OK] [Voltaje_AC: 225.8 V] [Voltaje_Bateria: 4.07312 V]
+[01:46:04]  [Estado Bateria] [Bajo] [Voltaje_AC: 225.7 V] [Voltaje_Bateria: 2.839116 V]
+[01:46:30]  [Estado Bateria] [OK] [Voltaje_AC: 225.8 V] [Voltaje_Bateria: 4.087896 V]
+[01:49:06]  [Estado Bateria] [Bajo] [Voltaje_AC: 225.6 V] [Voltaje_Bateria: 2.929925 V]
+[01:49:17]  [Estado Bateria] [OK] [Voltaje_AC: 225.8 V] [Voltaje_Bateria: 4.077872 V]
+[01:53:04]  [Estado Bateria] [Bajo] [Voltaje_AC: 225.5 V] [Voltaje_Bateria: 3.482967 V]
+[01:53:16]  [Estado Bateria] [Medio] [Voltaje_AC: 225.6 V] [Voltaje_Bateria: 3.500779 V]
+[01:59:43]  [SigFox Send] [Payload HEX] 9A996143A8B06A40000001 
+[01:59:46]  [SigFox] [Envio de metrica] [Voltaje_AC: 225.9 V] [Voltaje_Bateria: 3.661177 V]
+[02:14:46]  [SigFox Send] [Payload HEX] 9A1962433F6A6E40000001 
+[02:14:49]  [SigFox] [Envio de metrica] [Voltaje_AC: 225.9 V] [Voltaje_Bateria: 3.715938 V]
+[02:29:27]  [Estado Volt AC] [Corte de Suministro] [Voltaje_AC: 0.0 V] [Voltaje_Bateria: 3.758829 V]
+[02:29:28]  [Estado Sistema] [Pendiente] [Voltaje_AC: 0.0 V] [Voltaje_Bateria: 3.758829 V]
+[02:29:44]  [Estado Sistema] [ALERTA] [Voltaje_AC: 0.0 V] [Voltaje_Bateria: 3.626073 V]
+[02:29:44]  [SigFox Send] [Payload HEX] 0000000094116840020201 
+[02:29:46]  [SigFox] [Envio de metrica ALARMA] [Voltaje_AC: 0.0 V] [Voltaje_Bateria: 3.625129 V]
+[02:44:42]  [SigFox Send] [Payload HEX] 000000000A976640020201 
+[02:44:45]  [SigFox] [Envio de metrica] [Voltaje_AC: 0.0 V] [Voltaje_Bateria: 3.595246 V]
+[02:59:28]  [Estado Sistema] [OK] [Voltaje_AC: 227.2 V] [Voltaje_Bateria: 3.712224 V]
+[02:59:28]  [Estado Volt AC] [OK] [Voltaje_AC: 227.2 V] [Voltaje_Bateria: 3.712224 V]
+[02:59:28]  [SigFox Send] [Payload HEX] 3333634313956D40000001 
+[02:59:31]  [SigFox] [Envio de metrica OK] [Voltaje_AC: 227.2 V] [Voltaje_Bateria: 3.713877 V]
+[03:14:30]  [SigFox Send] [Payload HEX] 6666634358DE7140000001 
+[03:14:33]  [SigFox] [Envio de metrica] [Voltaje_AC: 227.3 V] [Voltaje_Bateria: 3.773401 V]
+[03:22:16]  [Estado Bateria] [OK] [Voltaje_AC: 227.7 V] [Voltaje_Bateria: 3.804544 V]
+[03:22:18]  [Estado Bateria] [Medio] [Voltaje_AC: 227.2 V] [Voltaje_Bateria: 3.798162 V]
+[03:22:52]  [Estado Bateria] [OK] [Voltaje_AC: 227.7 V] [Voltaje_Bateria: 3.800802 V]
+[03:22:54]  [Estado Bateria] [Medio] [Voltaje_AC: 227.2 V] [Voltaje_Bateria: 3.795058 V]
+[03:22:58]  [Estado Bateria] [OK] [Voltaje_AC: 227.7 V] [Voltaje_Bateria: 3.801061 V]
+[03:23:00]  [Estado Bateria] [Medio] [Voltaje_AC: 227.8 V] [Voltaje_Bateria: 3.789559 V]
+[03:23:06]  [Estado Bateria] [OK] [Voltaje_AC: 227.5 V] [Voltaje_Bateria: 3.800375 V]
+[03:23:11]  [Estado Bateria] [Medio] [Voltaje_AC: 227.6 V] [Voltaje_Bateria: 3.798904 V]
+[03:23:19]  [Estado Bateria] [OK] [Voltaje_AC: 227.7 V] [Voltaje_Bateria: 3.800467 V]
+[03:23:23]  [Estado Bateria] [Medio] [Voltaje_AC: 227.4 V] [Voltaje_Bateria: 3.798044 V]
+[03:23:39]  [Estado Bateria] [OK] [Voltaje_AC: 227.6 V] [Voltaje_Bateria: 3.801318 V]
+[03:23:41]  [Estado Bateria] [Medio] [Voltaje_AC: 227.7 V] [Voltaje_Bateria: 3.795595 V]
+[03:23:53]  [Estado Bateria] [OK] [Voltaje_AC: 227.4 V] [Voltaje_Bateria: 3.802016 V]
+[03:23:55]  [Estado Bateria] [Medio] [Voltaje_AC: 227.9 V] [Voltaje_Bateria: 3.79787 V]
+[03:24:01]  [Estado Bateria] [OK] [Voltaje_AC: 227.7 V] [Voltaje_Bateria: 3.803771 V]
+[03:24:07]  [Estado Bateria] [Medio] [Voltaje_AC: 227.6 V] [Voltaje_Bateria: 3.799869 V]
+[03:24:19]  [Estado Bateria] [OK] [Voltaje_AC: 227.5 V] [Voltaje_Bateria: 3.800269 V]
+[03:24:21]  [Estado Bateria] [Medio] [Voltaje_AC: 227.7 V] [Voltaje_Bateria: 3.796153 V]
+[03:24:23]  [Estado Bateria] [OK] [Voltaje_AC: 227.4 V] [Voltaje_Bateria: 3.801175 V]
+[03:24:25]  [Estado Bateria] [Medio] [Voltaje_AC: 227.7 V] [Voltaje_Bateria: 3.799856 V]
+[03:24:28]  [Estado Bateria] [OK] [Voltaje_AC: 227.4 V] [Voltaje_Bateria: 3.802298 V]
+[03:24:34]  [Estado Bateria] [Medio] [Voltaje_AC: 227.5 V] [Voltaje_Bateria: 3.796704 V]
+[03:24:35]  [Estado Bateria] [OK] [Voltaje_AC: 227.9 V] [Voltaje_Bateria: 3.801275 V]
+[03:24:54]  [Estado Bateria] [Medio] [Voltaje_AC: 227.7 V] [Voltaje_Bateria: 3.799614 V]
+[03:24:56]  [Estado Bateria] [OK] [Voltaje_AC: 227.9 V] [Voltaje_Bateria: 3.803107 V]
+[03:25:06]  [Estado Bateria] [Medio] [Voltaje_AC: 227.8 V] [Voltaje_Bateria: 3.799633 V]
+[03:25:36]  [Estado Bateria] [OK] [Voltaje_AC: 227.2 V] [Voltaje_Bateria: 3.800436 V]
+[03:25:38]  [Estado Bateria] [Medio] [Voltaje_AC: 228.0 V] [Voltaje_Bateria: 3.798382 V]
+[03:25:43]  [Estado Bateria] [OK] [Voltaje_AC: 227.4 V] [Voltaje_Bateria: 3.802465 V]
+[03:25:51]  [Estado Bateria] [Medio] [Voltaje_AC: 227.2 V] [Voltaje_Bateria: 3.79848 V]
+[03:25:55]  [Estado Bateria] [OK] [Voltaje_AC: 227.6 V] [Voltaje_Bateria: 3.80382 V]
+[03:26:29]  [Estado Bateria] [Medio] [Voltaje_AC: 227.6 V] [Voltaje_Bateria: 3.794332 V]
+[03:26:31]  [Estado Bateria] [OK] [Voltaje_AC: 227.2 V] [Voltaje_Bateria: 3.808173 V]
+[03:26:35]  [Estado Bateria] [Medio] [Voltaje_AC: 227.6 V] [Voltaje_Bateria: 3.798306 V]
+[03:26:37]  [Estado Bateria] [OK] [Voltaje_AC: 227.3 V] [Voltaje_Bateria: 3.802629 V]
+[03:26:58]  [Estado Bateria] [Medio] [Voltaje_AC: 227.4 V] [Voltaje_Bateria: 3.799953 V]
+[03:27:00]  [Estado Bateria] [OK] [Voltaje_AC: 227.5 V] [Voltaje_Bateria: 3.805227 V]
+[03:27:02]  [Estado Bateria] [Medio] [Voltaje_AC: 227.1 V] [Voltaje_Bateria: 3.798113 V]
+[03:27:04]  [Estado Bateria] [OK] [Voltaje_AC: 227.5 V] [Voltaje_Bateria: 3.806042 V]
+[03:27:06]  [Estado Bateria] [Medio] [Voltaje_AC: 227.3 V] [Voltaje_Bateria: 3.797341 V]
+[03:27:08]  [Estado Bateria] [OK] [Voltaje_AC: 227.6 V] [Voltaje_Bateria: 3.807661 V]
+[03:29:32]  [SigFox Send] [Payload HEX] 66E663431BCC7340000000 
+[03:29:35]  [SigFox] [Envio de metrica] [Voltaje_AC: 227.9 V] [Voltaje_Bateria: 3.808718 V]
+[03:44:34]  [SigFox Send] [Payload HEX] 9A1964433BFD7540000000 
+[03:44:37]  [SigFox] [Envio de metrica] [Voltaje_AC: 228.4 V] [Voltaje_Bateria: 3.846148 V]
+[03:59:27]  [Estado Sistema] [Pendiente] [Voltaje_AC: 0.0 V] [Voltaje_Bateria: 3.898708 V]
+[03:59:27]  [Estado Volt AC] [Corte de Suministro] [Voltaje_AC: 0.0 V] [Voltaje_Bateria: 3.898708 V]
+[03:59:28]  [Estado Bateria] [Medio] [Voltaje_AC: 0.0 V] [Voltaje_Bateria: 3.782078 V]
+[03:59:43]  [Estado Sistema] [ALERTA] [Voltaje_AC: 0.0 V] [Voltaje_Bateria: 3.768803 V]
+[03:59:43]  [SigFox Send] [Payload HEX] 0000000013347140020201 
+[03:59:46]  [SigFox] [Envio de metrica ALARMA] [Voltaje_AC: 0.0 V] [Voltaje_Bateria: 3.765081 V]
+[04:14:42]  [SigFox Send] [Payload HEX] 00000000CC636F40020201 
+[04:14:45]  [SigFox] [Envio de metrica] [Voltaje_AC: 0.0 V] [Voltaje_Bateria: 3.731551 V]
+[04:29:29]  [Estado Bateria] [OK] [Voltaje_AC: 0.0 V] [Voltaje_Bateria: 3.840993 V]
+[04:29:30]  [Estado Sistema] [OK] [Voltaje_AC: 229.4 V] [Voltaje_Bateria: 3.840993 V]
+[04:29:30]  [Estado Volt AC] [OK] [Voltaje_AC: 229.4 V] [Voltaje_Bateria: 3.840993 V]
+[04:29:30]  [SigFox Send] [Payload HEX] 66666543D3D27540000000 
+[04:29:32]  [SigFox] [Envio de metrica OK] [Voltaje_AC: 229.4 V] [Voltaje_Bateria: 3.846157 V]
+[04:44:32]  [SigFox Send] [Payload HEX] 33B36443DDE07B40000000 
+[04:44:35]  [SigFox] [Envio de metrica] [Voltaje_AC: 228.4 V] [Voltaje_Bateria: 3.938125 V]
+[04:59:34]  [SigFox Send] [Payload HEX] CDCC6443E7A68040000000 
+[04:59:37]  [SigFox] [Envio de metrica] [Voltaje_AC: 228.5 V] [Voltaje_Bateria: 4.010828 V]
+[05:14:37]  [SigFox Send] [Payload HEX] 333365433FBA8240000000 
+[05:14:40]  [SigFox] [Envio de metrica] [Voltaje_AC: 228.6 V] [Voltaje_Bateria: 4.084035 V]
+[05:29:28]  [Estado Volt AC] [Corte de Suministro] [Voltaje_AC: 0.0 V] [Voltaje_Bateria: 4.071076 V]
+[05:29:28]  [Estado Sistema] [Pendiente] [Voltaje_AC: 0.0 V] [Voltaje_Bateria: 4.071076 V]
+[05:29:43]  [Estado Sistema] [ALERTA] [Voltaje_AC: 0.0 V] [Voltaje_Bateria: 4.026355 V]
+[05:29:43]  [SigFox Send] [Payload HEX] 00000000E6D78040020200 
+[05:29:46]  [SigFox] [Envio de metrica ALARMA] [Voltaje_AC: 0.0 V] [Voltaje_Bateria: 4.024067 V]
+[05:44:42]  [SigFox Send] [Payload HEX] 00000000BA4F7F40020200 
+[05:44:45]  [SigFox] [Envio de metrica] [Voltaje_AC: 0.0 V] [Voltaje_Bateria: 3.989062 V]
+[05:59:28]  [Estado Volt AC] [OK] [Voltaje_AC: 227.8 V] [Voltaje_Bateria: 4.083693 V]
+[05:59:28]  [Estado Sistema] [OK] [Voltaje_AC: 227.8 V] [Voltaje_Bateria: 4.083693 V]
+[05:59:29]  [SigFox Send] [Payload HEX] CDCC63439CAD8240000000 
+[05:59:32]  [SigFox] [Envio de metrica OK] [Voltaje_AC: 227.8 V] [Voltaje_Bateria: 4.089055 V]
+[06:14:31]  [SigFox Send] [Payload HEX] 33B36143DFED8240000000 
+[06:14:34]  [SigFox] [Envio de metrica] [Voltaje_AC: 225.8 V] [Voltaje_Bateria: 4.095362 V]
+[06:29:33]  [SigFox Send] [Payload HEX] 33B3634308218340000000 
+[06:29:36]  [SigFox] [Envio de metrica] [Voltaje_AC: 227.6 V] [Voltaje_Bateria: 4.093389 V]
+[06:44:35]  [SigFox Send] [Payload HEX] 33B3634346198340000000 
+[06:44:38]  [SigFox] [Envio de metrica] [Voltaje_AC: 227.8 V] [Voltaje_Bateria: 4.093325 V]
+[06:59:27]  [Estado Volt AC] [Corte de Suministro] [Voltaje_AC: 0.0 V] [Voltaje_Bateria: 4.078847 V]
+[06:59:27]  [Estado Sistema] [Pendiente] [Voltaje_AC: 0.0 V] [Voltaje_Bateria: 4.078847 V]
+[06:59:43]  [Estado Sistema] [ALERTA] [Voltaje_AC: 0.0 V] [Voltaje_Bateria: 4.073387 V]
+[06:59:43]  [SigFox Send] [Payload HEX] 0000000030598240020200 
+[06:59:46]  [SigFox] [Envio de metrica ALARMA] [Voltaje_AC: 0.0 V] [Voltaje_Bateria: 4.072977 V]
+[07:14:42]  [SigFox Send] [Payload HEX] 000000000AD58140020200 
+[07:14:45]  [SigFox] [Envio de metrica] [Voltaje_AC: 0.0 V] [Voltaje_Bateria: 4.047157 V]
+[07:29:29]  [Estado Volt AC] [OK] [Voltaje_AC: 227.3 V] [Voltaje_Bateria: 4.087951 V]
+[07:29:30]  [Estado Sistema] [OK] [Voltaje_AC: 227.3 V] [Voltaje_Bateria: 4.087951 V]
+[07:29:30]  [SigFox Send] [Payload HEX] CD4C63437FD08240000000 
+[07:29:32]  [SigFox] [Envio de metrica OK] [Voltaje_AC: 227.3 V] [Voltaje_Bateria: 4.093809 V]
+[07:44:32]  [SigFox Send] [Payload HEX] 008063435AF68240000000 
+[07:44:35]  [SigFox] [Envio de metrica] [Voltaje_AC: 227.5 V] [Voltaje_Bateria: 4.094906 V]
+[07:59:34]  [SigFox Send] [Payload HEX] 66E66343EA058340000000 
+[07:59:37]  [SigFox] [Envio de metrica] [Voltaje_AC: 227.6 V] [Voltaje_Bateria: 4.095334 V]
+[08:14:36]  [SigFox Send] [Payload HEX] 33B3644325198340000000 
+[08:14:39]  [SigFox] [Envio de metrica] [Voltaje_AC: 228.5 V] [Voltaje_Bateria: 4.096606 V]
+[08:29:27]  [Estado Sistema] [Pendiente] [Voltaje_AC: 0.0 V] [Voltaje_Bateria: 4.102209 V]
+[08:29:27]  [Estado Volt AC] [Corte de Suministro] [Voltaje_AC: 0.0 V] [Voltaje_Bateria: 4.102209 V]
+[08:29:43]  [Estado Sistema] [ALERTA] [Voltaje_AC: 0.0 V] [Voltaje_Bateria: 4.085671 V]
+[08:29:42]  [SigFox Send] [Payload HEX] 00000000D2BD8240020200 
+[08:29:45]  [SigFox] [Envio de metrica ALARMA] [Voltaje_AC: 0.0 V] [Voltaje_Bateria: 4.076467 V]
+[08:44:41]  [SigFox Send] [Payload HEX] 00000000A8C78140020200 
+[08:44:44]  [SigFox] [Envio de metrica] [Voltaje_AC: 0.0 V] [Voltaje_Bateria: 4.059078 V]
+[08:59:28]  [Estado Volt AC] [OK] [Voltaje_AC: 225.3 V] [Voltaje_Bateria: 4.095584 V]
+[08:59:29]  [Estado Sistema] [OK] [Voltaje_AC: 225.3 V] [Voltaje_Bateria: 4.095584 V]
+[08:59:29]  [SigFox Send] [Payload HEX] CD4C6143060F8340000000 
+[08:59:31]  [SigFox] [Envio de metrica OK] [Voltaje_AC: 225.3 V] [Voltaje_Bateria: 4.08991 V]
+[09:14:31]  [SigFox Send] [Payload HEX] 9A196243E0308340000000 
+[09:14:34]  [SigFox] [Envio de metrica] [Voltaje_AC: 226.1 V] [Voltaje_Bateria: 4.099008 V]
+[09:29:33]  [SigFox Send] [Payload HEX] 3333614363378340000000 
+[09:29:36]  [SigFox] [Envio de metrica] [Voltaje_AC: 225.2 V] [Voltaje_Bateria: 4.099053 V]
+[09:44:35]  [SigFox Send] [Payload HEX] 9A996043A3218340000000 
+[09:44:38]  [SigFox] [Envio de metrica] [Voltaje_AC: 224.6 V] [Voltaje_Bateria: 4.094567 V]
+[09:59:26]  [Estado Volt AC] [Corte de Suministro] [Voltaje_AC: 0.0 V] [Voltaje_Bateria: 4.089601 V]
+[09:59:26]  [Estado Sistema] [Pendiente] [Voltaje_AC: 0.0 V] [Voltaje_Bateria: 4.089601 V]
+[09:59:42]  [Estado Sistema] [ALERTA] [Voltaje_AC: 0.0 V] [Voltaje_Bateria: 4.081091 V]
+[09:59:42]  [SigFox Send] [Payload HEX] 000000004C988240020200 
+[09:59:45]  [SigFox] [Envio de metrica ALARMA] [Voltaje_AC: 0.0 V] [Voltaje_Bateria: 4.071693 V]
+[10:14:41]  [SigFox Send] [Payload HEX] 0000000060B18140020200 
+[10:14:44]  [SigFox] [Envio de metrica] [Voltaje_AC: 0.0 V] [Voltaje_Bateria: 4.054851 V]
+[10:29:29]  [Estado Volt AC] [OK] [Voltaje_AC: 221.3 V] [Voltaje_Bateria: 4.056098 V]
+[10:29:29]  [Estado Sistema] [OK] [Voltaje_AC: 221.3 V] [Voltaje_Bateria: 4.056098 V]
+[10:29:29]  [SigFox Send] [Payload HEX] CD4C5D438DCB8140000000 
+[10:29:32]  [SigFox] [Envio de metrica OK] [Voltaje_AC: 221.3 V] [Voltaje_Bateria: 4.093404 V]
+[10:44:31]  [SigFox Send] [Payload HEX] 9A9960434C088340000000 
+[10:44:34]  [SigFox] [Envio de metrica] [Voltaje_AC: 224.9 V] [Voltaje_Bateria: 4.093613 V]
+[10:59:34]  [SigFox Send] [Payload HEX] CD4C5F43A4158340000000 
+[10:59:37]  [SigFox] [Envio de metrica] [Voltaje_AC: 223.4 V] [Voltaje_Bateria: 4.097678 V]
+[11:14:36]  [SigFox Send] [Payload HEX] 66666143AAF38240000000 
+[11:14:39]  [SigFox] [Envio de metrica] [Voltaje_AC: 225.3 V] [Voltaje_Bateria: 4.098147 V]
+[11:29:26]  [Estado Volt AC] [Corte de Suministro] [Voltaje_AC: 0.0 V] [Voltaje_Bateria: 4.098726 V]
+[11:29:26]  [Estado Sistema] [Pendiente] [Voltaje_AC: 0.0 V] [Voltaje_Bateria: 4.098726 V]
+[11:29:42]  [Estado Sistema] [ALERTA] [Voltaje_AC: 0.0 V] [Voltaje_Bateria: 4.079226 V]
+[11:29:42]  [SigFox Send] [Payload HEX] 0000000004898240020200 
+[11:29:45]  [SigFox] [Envio de metrica ALARMA] [Voltaje_AC: 0.0 V] [Voltaje_Bateria: 4.076165 V]
+[11:44:41]  [SigFox Send] [Payload HEX] 0000000011F58140020200 
+[11:44:44]  [SigFox] [Envio de metrica] [Voltaje_AC: 0.0 V] [Voltaje_Bateria: 4.064061 V]
+[11:59:28]  [Estado Volt AC] [OK] [Voltaje_AC: 224.4 V] [Voltaje_Bateria: 4.096905 V]
+[11:59:28]  [Estado Sistema] [OK] [Voltaje_AC: 224.4 V] [Voltaje_Bateria: 4.096905 V]
+[11:59:28]  [SigFox Send] [Payload HEX] 66666043D9198340000000 
+[11:59:31]  [SigFox] [Envio de metrica OK] [Voltaje_AC: 224.4 V] [Voltaje_Bateria: 4.091645 V]
+[12:14:30]  [SigFox Send] [Payload HEX] 66665E43CC0E8340000000 
+[12:14:33]  [SigFox] [Envio de metrica] [Voltaje_AC: 222.5 V] [Voltaje_Bateria: 4.091985 V]
+[12:29:32]  [SigFox Send] [Payload HEX] 9A995E4360228340000000 
+[12:29:35]  [SigFox] [Envio de metrica] [Voltaje_AC: 222.9 V] [Voltaje_Bateria: 4.09472 V]
+[12:44:34]  [SigFox Send] [Payload HEX] 00005F43E20C8340000000 
+[12:44:37]  [SigFox] [Envio de metrica] [Voltaje_AC: 222.7 V] [Voltaje_Bateria: 4.103121 V]
+[12:59:25]  [Estado Volt AC] [Corte de Suministro] [Voltaje_AC: 0.0 V] [Voltaje_Bateria: 4.090943 V]
+[12:59:26]  [Estado Sistema] [Pendiente] [Voltaje_AC: 0.0 V] [Voltaje_Bateria: 4.090943 V]
+[12:59:41]  [Estado Sistema] [ALERTA] [Voltaje_AC: 0.0 V] [Voltaje_Bateria: 4.084638 V]
+[12:59:41]  [SigFox Send] [Payload HEX] 000000005AB58240020200 
+[12:59:44]  [SigFox] [Envio de metrica ALARMA] [Voltaje_AC: 0.0 V] [Voltaje_Bateria: 4.079171 V]
+[13:14:40]  [SigFox Send] [Payload HEX] 0000000001E38140020200 
+[13:14:43]  [SigFox] [Envio de metrica] [Voltaje_AC: 0.0 V] [Voltaje_Bateria: 4.051959 V]
+[13:29:28]  [Estado Volt AC] [OK] [Voltaje_AC: 220.0 V] [Voltaje_Bateria: 4.088773 V]
+[13:29:28]  [Estado Sistema] [OK] [Voltaje_AC: 220.0 V] [Voltaje_Bateria: 4.088773 V]
+[13:29:28]  [SigFox Send] [Payload HEX] 00005C433AD78240000000 
+[13:29:31]  [SigFox] [Envio de metrica OK] [Voltaje_AC: 220.0 V] [Voltaje_Bateria: 4.089849 V]
+[13:44:31]  [SigFox Send] [Payload HEX] 33B35B43BA028340000000 
+[13:44:34]  [SigFox] [Envio de metrica] [Voltaje_AC: 219.9 V] [Voltaje_Bateria: 4.097416 V]
+[13:59:33]  [SigFox Send] [Payload HEX] 00805C435C258340000000 
+[13:59:36]  [SigFox] [Envio de metrica] [Voltaje_AC: 220.9 V] [Voltaje_Bateria: 4.094412 V]
+[14:14:35]  [SigFox Send] [Payload HEX] 33335C432C068340000000 
+[14:14:38]  [SigFox] [Envio de metrica] [Voltaje_AC: 220.4 V] [Voltaje_Bateria: 4.099517 V]
+[14:29:26]  [Estado Volt AC] [Corte de Suministro] [Voltaje_AC: 0.0 V] [Voltaje_Bateria: 4.096663 V]
+[14:29:26]  [Estado Sistema] [Pendiente] [Voltaje_AC: 0.0 V] [Voltaje_Bateria: 4.096663 V]
+[14:29:42]  [Estado Sistema] [ALERTA] [Voltaje_AC: 0.0 V] [Voltaje_Bateria: 4.078983 V]
+[14:29:42]  [SigFox Send] [Payload HEX] 0000000007878240020200 
+[14:29:45]  [SigFox] [Envio de metrica ALARMA] [Voltaje_AC: 0.0 V] [Voltaje_Bateria: 4.07806 V]
+[14:44:41]  [SigFox Send] [Payload HEX] 00000000F6138240020200 
+[14:44:44]  [SigFox] [Envio de metrica] [Voltaje_AC: 0.0 V] [Voltaje_Bateria: 4.055544 V]
+[14:59:28]  [Estado Sistema] [OK] [Voltaje_AC: 222.7 V] [Voltaje_Bateria: 4.080506 V]
+[14:59:28]  [Estado Volt AC] [OK] [Voltaje_AC: 222.7 V] [Voltaje_Bateria: 4.080506 V]
+[14:59:28]  [SigFox Send] [Payload HEX] 33B35E4381938240000000 
+[14:59:30]  [SigFox] [Envio de metrica OK] [Voltaje_AC: 222.7 V] [Voltaje_Bateria: 4.092561 V]
+[15:14:30]  [SigFox Send] [Payload HEX] CD4C5F4330098340000000 
+[15:14:33]  [SigFox] [Envio de metrica] [Voltaje_AC: 222.9 V] [Voltaje_Bateria: 4.089624 V]
+[15:29:33]  [SigFox Send] [Payload HEX] 33B35F43740F8340000000 
+[15:29:36]  [SigFox] [Envio de metrica] [Voltaje_AC: 223.1 V] [Voltaje_Bateria: 4.099234 V]
+[15:44:35]  [SigFox Send] [Payload HEX] 66E65F43C2098340000000 
+[15:44:38]  [SigFox] [Envio de metrica] [Voltaje_AC: 223.9 V] [Voltaje_Bateria: 4.092858 V]
+[15:59:26]  [Estado Volt AC] [Corte de Suministro] [Voltaje_AC: 0.0 V] [Voltaje_Bateria: 4.094911 V]
+[15:59:27]  [Estado Sistema] [Pendiente] [Voltaje_AC: 0.0 V] [Voltaje_Bateria: 4.094911 V]
+[15:59:42]  [Estado Sistema] [ALERTA] [Voltaje_AC: 0.0 V] [Voltaje_Bateria: 4.081973 V]
+[15:59:42]  [SigFox Send] [Payload HEX] 00000000859F8240020200 
+[15:59:45]  [SigFox] [Envio de metrica ALARMA] [Voltaje_AC: 0.0 V] [Voltaje_Bateria: 4.079806 V]
+[16:14:42]  [SigFox Send] [Payload HEX] 0000000099058240020200 
+[16:14:44]  [SigFox] [Envio de metrica] [Voltaje_AC: 0.0 V] [Voltaje_Bateria: 4.060939 V]
+[16:29:29]  [Estado Volt AC] [OK] [Voltaje_AC: 225.6 V] [Voltaje_Bateria: 4.091393 V]
+[16:29:29]  [Estado Sistema] [OK] [Voltaje_AC: 225.6 V] [Voltaje_Bateria: 4.091393 V]
+[16:29:29]  [SigFox Send] [Payload HEX] 9A996143B1EC8240000000 
+[16:29:32]  [SigFox] [Envio de metrica OK] [Voltaje_AC: 225.6 V] [Voltaje_Bateria: 4.089773 V]
+[16:44:31]  [SigFox Send] [Payload HEX] 000061430C318340000000 
+[16:44:34]  [SigFox] [Envio de metrica] [Voltaje_AC: 224.8 V] [Voltaje_Bateria: 4.09658 V]
+[16:59:34]  [SigFox Send] [Payload HEX] 33B36143C6088340000000 
+[16:59:36]  [SigFox] [Envio de metrica] [Voltaje_AC: 225.8 V] [Voltaje_Bateria: 4.096342 V]
+[17:14:37]  [SigFox Send] [Payload HEX] 33336143960E8340000000 
+[17:14:39]  [SigFox] [Envio de metrica] [Voltaje_AC: 224.8 V] [Voltaje_Bateria: 4.092346 V]
+[17:29:26]  [Estado Volt AC] [Corte de Suministro] [Voltaje_AC: 0.0 V] [Voltaje_Bateria: 4.096047 V]
+[17:29:27]  [Estado Sistema] [Pendiente] [Voltaje_AC: 0.0 V] [Voltaje_Bateria: 4.096047 V]
+[17:29:42]  [Estado Sistema] [ALERTA] [Voltaje_AC: 0.0 V] [Voltaje_Bateria: 4.084471 V]
+[17:29:42]  [SigFox Send] [Payload HEX] 00000000FCB38240020200 
+[17:29:45]  [SigFox] [Envio de metrica ALARMA] [Voltaje_AC: 0.0 V] [Voltaje_Bateria: 4.078541 V]
+[17:44:42]  [SigFox Send] [Payload HEX] 00000000E8128240020200 
+[17:44:44]  [SigFox] [Envio de metrica] [Voltaje_AC: 0.0 V] [Voltaje_Bateria: 4.055937 V]
+[17:59:29]  [Estado Volt AC] [OK] [Voltaje_AC: 224.4 V] [Voltaje_Bateria: 4.093155 V]
+[17:59:29]  [Estado Sistema] [OK] [Voltaje_AC: 224.4 V] [Voltaje_Bateria: 4.093155 V]
+[17:59:29]  [SigFox Send] [Payload HEX] 6666604321FB8240000000 
+[17:59:32]  [SigFox] [Envio de metrica OK] [Voltaje_AC: 224.4 V] [Voltaje_Bateria: 4.092494 V]
+[18:14:31]  [SigFox Send] [Payload HEX] 66E65E438E1E8340000000 
+[18:14:34]  [SigFox] [Envio de metrica] [Voltaje_AC: 222.7 V] [Voltaje_Bateria: 4.098425 V]
+[18:29:35]  [SigFox Send] [Payload HEX] 9A995D4330128340000000 
+[18:29:37]  [SigFox] [Envio de metrica] [Voltaje_AC: 221.7 V] [Voltaje_Bateria: 4.095842 V]
+[18:44:36]  [SigFox Send] [Payload HEX] 3333614332178340000000 
+[18:44:39]  [SigFox] [Envio de metrica] [Voltaje_AC: 225.2 V] [Voltaje_Bateria: 4.096218 V]
+[18:59:26]  [Estado Volt AC] [Corte de Suministro] [Voltaje_AC: 0.0 V] [Voltaje_Bateria: 4.098456 V]
+[18:59:26]  [Estado Sistema] [Pendiente] [Voltaje_AC: 0.0 V] [Voltaje_Bateria: 4.098456 V]
+[18:59:42]  [Estado Sistema] [ALERTA] [Voltaje_AC: 0.0 V] [Voltaje_Bateria: 4.084141 V]
+[18:59:42]  [SigFox Send] [Payload HEX] 0000000048B18240020200 
+[18:59:45]  [SigFox] [Envio de metrica ALARMA] [Voltaje_AC: 0.0 V] [Voltaje_Bateria: 4.078277 V]
+[19:14:42]  [SigFox Send] [Payload HEX] 00000000CD018240020200 
+[19:14:44]  [SigFox] [Envio de metrica] [Voltaje_AC: 0.0 V] [Voltaje_Bateria: 4.062778 V]
+[19:29:28]  [Estado Volt AC] [OK] [Voltaje_AC: 222.2 V] [Voltaje_Bateria: 4.083175 V]
+[19:29:28]  [Estado Sistema] [OK] [Voltaje_AC: 222.2 V] [Voltaje_Bateria: 4.083175 V]
+[19:29:28]  [SigFox Send] [Payload HEX] 33335E435EA98240000000 
+[19:29:30]  [SigFox] [Envio de metrica OK] [Voltaje_AC: 222.2 V] [Voltaje_Bateria: 4.09354 V]
+[19:44:31]  [SigFox Send] [Payload HEX] 33B35E4346278340000000 
+[19:44:33]  [SigFox] [Envio de metrica] [Voltaje_AC: 222.7 V] [Voltaje_Bateria: 4.098584 V]
+[19:59:33]  [SigFox Send] [Payload HEX] 00005F43AF108340000000 
+[19:59:35]  [SigFox] [Envio de metrica] [Voltaje_AC: 222.9 V] [Voltaje_Bateria: 4.09586 V]
+[20:14:35]  [SigFox Send] [Payload HEX] 33B36043E4188340000000 
+[20:14:37]  [SigFox] [Envio de metrica] [Voltaje_AC: 224.7 V] [Voltaje_Bateria: 4.096043 V]
+[20:29:27]  [Estado Volt AC] [Corte de Suministro] [Voltaje_AC: 0.0 V] [Voltaje_Bateria: 4.093627 V]
+[20:29:28]  [Estado Sistema] [Pendiente] [Voltaje_AC: 0.0 V] [Voltaje_Bateria: 4.093627 V]
+[20:29:43]  [Estado Sistema] [ALERTA] [Voltaje_AC: 0.0 V] [Voltaje_Bateria: 4.082744 V]
+[20:29:43]  [SigFox Send] [Payload HEX] 00000000D6A58240020200 
+[20:29:46]  [SigFox] [Envio de metrica ALARMA] [Voltaje_AC: 0.0 V] [Voltaje_Bateria: 4.07426 V]
+[20:44:43]  [SigFox Send] [Payload HEX] 000000005AFD8140020200 
+[20:44:45]  [SigFox] [Envio de metrica] [Voltaje_AC: 0.0 V] [Voltaje_Bateria: 4.057782 V]
+[20:59:28]  [Estado Volt AC] [OK] [Voltaje_AC: 223.0 V] [Voltaje_Bateria: 4.081024 V]
+[20:59:28]  [Estado Sistema] [OK] [Voltaje_AC: 223.0 V] [Voltaje_Bateria: 4.081024 V]
+[20:59:28]  [SigFox Send] [Payload HEX] 00005F43C0978240000000 
+[20:59:31]  [SigFox] [Envio de metrica OK] [Voltaje_AC: 223.0 V] [Voltaje_Bateria: 4.086594 V]
+[21:14:31]  [SigFox Send] [Payload HEX] CDCC5D4380028340000000 
+[21:14:33]  [SigFox] [Envio de metrica] [Voltaje_AC: 221.4 V] [Voltaje_Bateria: 4.095029 V]
+[21:29:34]  [SigFox Send] [Payload HEX] 00005D43EEEC8240000000 
+[21:29:36]  [SigFox] [Envio de metrica] [Voltaje_AC: 221.2 V] [Voltaje_Bateria: 4.094254 V]
+[21:44:36]  [SigFox Send] [Payload HEX] CDCC5D43F6038340000000 
+[21:44:38]  [SigFox] [Envio de metrica] [Voltaje_AC: 221.9 V] [Voltaje_Bateria: 4.096545 V]
+[21:59:27]  [Estado Volt AC] [Corte de Suministro] [Voltaje_AC: 0.0 V] [Voltaje_Bateria: 4.092157 V]
+[21:59:28]  [Estado Sistema] [Pendiente] [Voltaje_AC: 0.0 V] [Voltaje_Bateria: 4.092157 V]
+[21:59:43]  [Estado Sistema] [ALERTA] [Voltaje_AC: 0.0 V] [Voltaje_Bateria: 4.080349 V]
+[21:59:43]  [SigFox Send] [Payload HEX] 0000000038928240020200 
+[21:59:46]  [SigFox] [Envio de metrica ALARMA] [Voltaje_AC: 0.0 V] [Voltaje_Bateria: 4.080862 V]
+[22:14:43]  [SigFox Send] [Payload HEX] 00000000F4E98140020200 
+[22:14:45]  [SigFox] [Envio de metrica] [Voltaje_AC: 0.0 V] [Voltaje_Bateria: 4.056344 V]
+[22:29:28]  [Estado Volt AC] [OK] [Voltaje_AC: 221.6 V] [Voltaje_Bateria: 4.085607 V]
+[22:29:28]  [Estado Sistema] [OK] [Voltaje_AC: 221.6 V] [Voltaje_Bateria: 4.085607 V]
+[22:29:28]  [SigFox Send] [Payload HEX] 9A995D434ABD8240000000 
+[22:29:31]  [SigFox] [Envio de metrica OK] [Voltaje_AC: 221.6 V] [Voltaje_Bateria: 4.087432 V]
+[22:44:31]  [SigFox Send] [Payload HEX] 9A995E43AA1F8340000000 
+[22:44:33]  [SigFox] [Envio de metrica] [Voltaje_AC: 222.6 V] [Voltaje_Bateria: 4.095114 V]
+[22:59:33]  [SigFox Send] [Payload HEX] 9A99604394F98240000000 
+[22:59:35]  [SigFox] [Envio de metrica] [Voltaje_AC: 224.7 V] [Voltaje_Bateria: 4.092685 V]
+[23:14:36]  [SigFox Send] [Payload HEX] 33B36143F42A8340000000 
+[23:14:38]  [SigFox] [Envio de metrica] [Voltaje_AC: 225.6 V] [Voltaje_Bateria: 4.100211 V]
+[23:29:29]  [Estado Volt AC] [Corte de Suministro] [Voltaje_AC: 0.0 V] [Voltaje_Bateria: 4.096336 V]
+[23:29:30]  [Estado Sistema] [Pendiente] [Voltaje_AC: 0.0 V] [Voltaje_Bateria: 4.085853 V]
+[23:29:45]  [Estado Sistema] [ALERTA] [Voltaje_AC: 0.0 V] [Voltaje_Bateria: 4.080646 V]
+[23:29:46]  [SigFox Send] [Payload HEX] 00000000A6948240020200 
+[23:29:48]  [SigFox] [Envio de metrica ALARMA] [Voltaje_AC: 0.0 V] [Voltaje_Bateria: 4.075511 V]
+[23:44:45]  [SigFox Send] [Payload HEX] 0000000014158240020200 
+[23:44:47]  [SigFox] [Envio de metrica] [Voltaje_AC: 0.0 V] [Voltaje_Bateria: 4.051432 V]
+[23:59:30]  [Estado Sistema] [OK] [Voltaje_AC: 224.5 V] [Voltaje_Bateria: 4.091038 V]
+[23:59:30]  [Estado Volt AC] [OK] [Voltaje_AC: 224.5 V] [Voltaje_Bateria: 4.091038 V]
+[23:59:30]  [SigFox Send] [Payload HEX] 00806043C8E98240000000 
+[23:59:32]  [SigFox] [Envio de metrica OK] [Voltaje_AC: 224.5 V] [Voltaje_Bateria: 4.091264 V]
